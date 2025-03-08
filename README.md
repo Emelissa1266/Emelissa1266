@@ -3,21 +3,20 @@
 
 ---
 ### 💻 About Me 
-- 🚀 I’m currently working on **Raqmen Hosting**, a hybrid cloud platform.  
 - ⚡ Passionate about **Full-Stack Development, Cloud Computing, and UI/UX Design**.  
 - 🌱 Currently learning **Node.js, Cloud Infrastructure, and Advanced UI/UX**.  
-- 📮 How to reach me: **[YourEmailHere@example.com](mailto:YourEmailHere@example.com)**  
+- 📮 How to reach me: **[joudamelissa2@gmail.com](mailto:joudamelissa2@gmail.com)**  
 
 ---
 ### 🤝 Connect with Me:
 <p align="left">
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <a href= "https://www.linkedin.com/in/melissa-jouda-962548296/?trk=public-profile-join-page" target="_blank">
         <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" />
     </a>
-    <a href="https://www.instagram.com/yourprofile" target="_blank">
+    <a href="https://www.instagram.com/e_meli_s/" target="_blank">
         <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram" height="40" width="40" />
     </a>
-    <a href="https://github.com/YourGitHubUsername" target="_blank">
+    <a href="https://github.com/Emelissa1266/Emelissa1266/" target="_blank">
         <img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="github" height="40" width="40" />
     </a>
 </p>
