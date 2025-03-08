@@ -40,15 +40,15 @@
 ---
 ### 📈 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Emelissa1266&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Emelissa1266&theme=radical&hide_border=true" alt="GitHub Streak" />
     </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelissa1266&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
