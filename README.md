@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Melissa</h1>
-<h3 align="center">Full-Stack Developer | Cloud Enthusiast | UI/UX Designer</h3>
+<h3 align="center">Full-Stack Developer | AI Engineer | UI/UX Designer</h3>
 
 ---
 ### 💻 About Me 
