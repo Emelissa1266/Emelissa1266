@@ -4,7 +4,7 @@
 ---
 ### 💻 About Me 
 - ⚡ Passionate about **Full-Stack Development, Cloud Computing, and UI/UX Design**.  
-- 🌱 Currently learning **Node.js, Cloud Infrastructure, and Advanced UI/UX**.  
+- 🌱  **Node.js, Cloud Infrastructure, and Advanced UI/UX**.  
 - 📮 How to reach me: **[joudamelissa2@gmail.com](mailto:joudamelissa2@gmail.com)**  
 
 ---
