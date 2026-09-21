@@ -13,7 +13,7 @@
     <a href= "https://www.linkedin.com/in/melissa-jouda-962548296/?trk=public-profile-join-page" target="_blank">
         <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" />
     </a>
-    <a href="[https://www.instagram.com/miss_mell._/](https://www.instagram.com/miss_mell._/)" target="_blank">
+    <a href="https://www.instagram.com/miss_mell._/" target="_blank">
         <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram" height="40" width="40" />
     </a>
     <a href="https://github.com/Emelissa1266/Emelissa1266/" target="_blank">
